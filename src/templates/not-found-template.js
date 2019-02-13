@@ -11,10 +11,10 @@ const NotFoundTemplate = ({ data }) => {
   } = data.site.siteMetadata;
 
   return (
-    <Layout title={`Not Found - ${title}`} description={subtitle}>
+    <Layout title={`Hjelp! finner ikke det du leter etter! - ${title}`} description={subtitle}>
       <Sidebar />
-      <Page title="NOT FOUND">
-        <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+      <Page title="WTF!! finner ikke dette...">
+        <p>Du har funnet noe.. eller, det vil si, du har ikke funnet det.. og det har ikke jeg heller.. the sadness.</p>
       </Page>
     </Layout>
   );
