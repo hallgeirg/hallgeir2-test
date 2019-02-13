@@ -1,7 +1,7 @@
 ---
 template: post
 title: Hallgeir tester
-slug: /posts/the-origins-of-social-stationery-lettering
+slug: /posts/hallgeir-tester
 draft: false
 date: 2019-12-01T22:40:00.000Z
 description: >-
