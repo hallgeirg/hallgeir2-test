@@ -1839,79 +1839,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "04cd4aca-6b2e-510c-af4d-bc35462831f3": {
-      "resolve": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/node_modules/gatsby-plugin-google-analytics",
-      "id": "04cd4aca-6b2e-510c-af4d-bc35462831f3",
-      "name": "gatsby-plugin-google-analytics",
-      "version": "2.0.13",
-      "pluginOptions": {
-        "plugins": [],
-        "trackingId": "UA-73379983-2"
-      },
-      "nodeAPIs": [],
-      "browserAPIs": [
-        "onRouteUpdate"
-      ],
-      "ssrAPIs": [
-        "onRenderBody"
-      ],
-      "pluginFilepath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/node_modules/gatsby-plugin-google-analytics",
-      "packageJson": {
-        "name": "gatsby-plugin-google-analytics",
-        "description": "Gatsby plugin to add google analytics onto a site",
-        "version": "2.0.13",
-        "main": "index.js",
-        "keywords": [
-          "gatsby",
-          "gatsby-plugin",
-          "google analytics"
-        ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
-        "license": "MIT",
-        "dependencies": [
-          {
-            "name": "@babel/runtime",
-            "version": "^7.0.0"
-          }
-        ],
-        "devDependencies": [
-          {
-            "name": "@babel/cli",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "@babel/core",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "babel-preset-gatsby-package",
-            "version": "^0.1.3"
-          },
-          {
-            "name": "cross-env",
-            "version": "^5.1.4"
-          }
-        ],
-        "peerDependencies": [
-          {
-            "name": "gatsby",
-            "version": "^2.0.0"
-          }
-        ],
-        "optionalDependecies": [],
-        "bundledDependecies": []
-      },
-      "parent": null,
-      "children": [],
-      "internal": {
-        "contentDigest": "8ff4df330aa5db9921c56a494cd0f9c6",
-        "type": "SitePlugin",
-        "owner": "internal-data-bridge"
-      }
-    },
     "783f143d-0eda-5fe3-b55c-da7391ff9351": {
       "resolve": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/node_modules/gatsby-plugin-sitemap",
       "id": "783f143d-0eda-5fe3-b55c-da7391ff9351",
@@ -1992,97 +1919,6 @@
       "children": [],
       "internal": {
         "contentDigest": "dd8106ab4c80fd524aee09eb7993aea3",
-        "type": "SitePlugin",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "6e895a3e-106c-50b5-b7f2-22fc4abf96a7": {
-      "resolve": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/node_modules/gatsby-plugin-manifest",
-      "id": "6e895a3e-106c-50b5-b7f2-22fc4abf96a7",
-      "name": "gatsby-plugin-manifest",
-      "version": "2.0.17",
-      "pluginOptions": {
-        "plugins": [],
-        "name": "Blog by Hallgeir Gustavsen",
-        "short_name": "Blog by Hallgeir Gustavsen",
-        "start_url": "/",
-        "background_color": "#FFF",
-        "theme_color": "#F7A046",
-        "display": "standalone",
-        "icon": "static/photo.jpg"
-      },
-      "nodeAPIs": [
-        "onPostBootstrap"
-      ],
-      "browserAPIs": [],
-      "ssrAPIs": [
-        "onRenderBody"
-      ],
-      "pluginFilepath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/node_modules/gatsby-plugin-manifest",
-      "packageJson": {
-        "name": "gatsby-plugin-manifest",
-        "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
-        "version": "2.0.17",
-        "main": "index.js",
-        "keywords": [
-          "gatsby",
-          "gatsby-plugin",
-          "favicon",
-          "icons",
-          "manifest.webmanifest",
-          "progressive-web-app",
-          "pwa"
-        ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
-        "license": "MIT",
-        "dependencies": [
-          {
-            "name": "@babel/runtime",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "bluebird",
-            "version": "^3.5.0"
-          },
-          {
-            "name": "sharp",
-            "version": "^0.21.3"
-          }
-        ],
-        "devDependencies": [
-          {
-            "name": "@babel/cli",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "@babel/core",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "babel-preset-gatsby-package",
-            "version": "^0.1.3"
-          },
-          {
-            "name": "cross-env",
-            "version": "^5.1.4"
-          }
-        ],
-        "peerDependencies": [
-          {
-            "name": "gatsby",
-            "version": "^2.0.0"
-          }
-        ],
-        "optionalDependecies": [],
-        "bundledDependecies": []
-      },
-      "parent": null,
-      "children": [],
-      "internal": {
-        "contentDigest": "e0f94550a1da7cd4ac53e9b4dc810aab",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -2848,36 +2684,36 @@
     },
     "Site": {
       "siteMetadata": {
-        "url": "https://lumen.netlify.com",
+        "url": "https://hallgeir-test.netlify.com",
         "title": "Blog by Hallgeir Gustavsen",
-        "subtitle": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+        "subtitle": "#addmorewow!! Jeg er Hallgeir, daglig leder og kreativ rådgiver i Vecora - digitalbyrå i Sandnes",
         "copyright": "© All rights reserved.",
         "disqusShortname": "",
         "menu": [
           {
-            "label": "Articles",
+            "label": "Blogg",
             "path": "/"
           },
           {
-            "label": "About me",
+            "label": "Om Hallgeir",
             "path": "/pages/about"
           },
           {
-            "label": "Contact me",
+            "label": "Kontakt meg",
             "path": "/pages/contacts"
           }
         ],
         "author": {
           "name": "Hallgeir Gustavsen",
           "photo": "/photo.jpg",
-          "bio": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+          "bio": "#addmorewow!! Jeg er Hallgeir, daglig leder og kreativ rådgiver i Vecora - digitalbyrå i Sandnes",
           "contacts": {
-            "email": "#",
-            "telegram": "#",
-            "twitter": "#",
-            "github": "#",
+            "email": "hallgeir@vecora.no",
+            "telegram": "hallgeirg",
+            "twitter": "hallgeirg",
+            "github": "hallgeirg",
             "rss": "#",
-            "vkontakte": "#"
+            "vkontakte": "hallgeirg"
           }
         }
       },
@@ -2885,12 +2721,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-02-13T12:45:20.240Z",
+      "buildTime": "2019-02-13T19:43:28.916Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "8042f9bb6a5540a42431d6988ff1c82e",
+        "contentDigest": "c7a2c1619ad3b7afc0f2003a901f4950",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2900,7 +2736,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "792d7d12fe0f7acd8cf3a0f96a638102",
+        "contentDigest": "858bb25d26f97cda36a1b27391070791",
         "type": "Directory",
         "description": "Directory \"content\"",
         "owner": "gatsby-source-filesystem"
@@ -2912,7 +2748,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2019-02-13T00:03:04.000Z",
-      "accessTime": "2019-02-13T12:45:25.638Z",
+      "accessTime": "2019-02-13T19:43:35.741Z",
       "changeTime": "2019-02-13T12:11:41.917Z",
       "birthTime": "2019-02-13T00:02:34.000Z",
       "root": "/",
@@ -2930,11 +2766,11 @@
       "blksize": 4096,
       "ino": 22478761,
       "blocks": 0,
-      "atimeMs": 1550061925637.8809,
+      "atimeMs": 1550087015740.783,
       "mtimeMs": 1550016184000,
       "ctimeMs": 1550059901917.0918,
       "birthtimeMs": 1550016154000,
-      "atime": "2019-02-13T12:45:25.638Z",
+      "atime": "2019-02-13T19:43:35.741Z",
       "mtime": "2019-02-13T00:03:04.000Z",
       "ctime": "2019-02-13T12:11:41.917Z",
       "birthtime": "2019-02-13T00:02:34.000Z"
@@ -2944,7 +2780,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "77446faecd501a0250a1365f81e41588",
+        "contentDigest": "c955f8f1655472d3556ed3a6aa992fb1",
         "type": "Directory",
         "description": "Directory \"content/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -2955,9 +2791,9 @@
       "extension": "",
       "size": 128,
       "prettySize": "128 B",
-      "modifiedTime": "2019-02-13T00:03:00.000Z",
-      "accessTime": "2019-02-13T12:45:25.640Z",
-      "changeTime": "2019-02-13T00:03:00.417Z",
+      "modifiedTime": "2019-02-13T17:31:30.251Z",
+      "accessTime": "2019-02-13T19:43:35.742Z",
+      "changeTime": "2019-02-13T17:31:30.251Z",
       "birthTime": "2019-02-13T00:02:34.000Z",
       "root": "/",
       "dir": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/content",
@@ -2974,13 +2810,13 @@
       "blksize": 4096,
       "ino": 22478762,
       "blocks": 0,
-      "atimeMs": 1550061925640.425,
-      "mtimeMs": 1550016180000,
-      "ctimeMs": 1550016180417.2673,
+      "atimeMs": 1550087015742.4094,
+      "mtimeMs": 1550079090250.922,
+      "ctimeMs": 1550079090250.922,
       "birthtimeMs": 1550016154000,
-      "atime": "2019-02-13T12:45:25.640Z",
-      "mtime": "2019-02-13T00:03:00.000Z",
-      "ctime": "2019-02-13T00:03:00.417Z",
+      "atime": "2019-02-13T19:43:35.742Z",
+      "mtime": "2019-02-13T17:31:30.251Z",
+      "ctime": "2019-02-13T17:31:30.251Z",
       "birthtime": "2019-02-13T00:02:34.000Z"
     },
     "00f20173-25dd-5060-808f-f78dee20d8c0": {
@@ -2988,7 +2824,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "629d8b888c9dc7821622274bc39dc9df",
+        "contentDigest": "3fa8ba8884075b1556b2312bfd02bff9",
         "type": "Directory",
         "description": "Directory \"content/posts\"",
         "owner": "gatsby-source-filesystem"
@@ -2997,11 +2833,11 @@
       "absolutePath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/content/posts",
       "relativePath": "posts",
       "extension": "",
-      "size": 192,
-      "prettySize": "192 B",
-      "modifiedTime": "2019-02-13T12:01:06.912Z",
-      "accessTime": "2019-02-13T12:45:25.640Z",
-      "changeTime": "2019-02-13T12:01:06.912Z",
+      "size": 160,
+      "prettySize": "160 B",
+      "modifiedTime": "2019-02-13T17:31:30.393Z",
+      "accessTime": "2019-02-13T19:43:35.742Z",
+      "changeTime": "2019-02-13T17:31:30.393Z",
       "birthTime": "2019-02-13T00:02:34.000Z",
       "root": "/",
       "dir": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/content",
@@ -3011,20 +2847,20 @@
       "relativeDirectory": "",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 6,
+      "nlink": 5,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
       "ino": 22478765,
       "blocks": 0,
-      "atimeMs": 1550061925640.438,
-      "mtimeMs": 1550059266911.7437,
-      "ctimeMs": 1550059266911.7437,
+      "atimeMs": 1550087015742.4287,
+      "mtimeMs": 1550079090392.9917,
+      "ctimeMs": 1550079090392.9917,
       "birthtimeMs": 1550016154000,
-      "atime": "2019-02-13T12:45:25.640Z",
-      "mtime": "2019-02-13T12:01:06.912Z",
-      "ctime": "2019-02-13T12:01:06.912Z",
+      "atime": "2019-02-13T19:43:35.742Z",
+      "mtime": "2019-02-13T17:31:30.393Z",
+      "ctime": "2019-02-13T17:31:30.393Z",
       "birthtime": "2019-02-13T00:02:34.000Z"
     },
     "4303f163-cf9e-58bd-9e8b-28eaa604e4a6": {
@@ -3330,7 +3166,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "c4c6ca5f4807648d3c6acd1bccfee159",
+        "contentDigest": "fd88900768c0dd28f8e2294152611513",
         "type": "Directory",
         "description": "Directory \"static/media\"",
         "owner": "gatsby-source-filesystem"
@@ -3339,11 +3175,11 @@
       "absolutePath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/static/media",
       "relativePath": "media",
       "extension": "",
-      "size": 384,
-      "prettySize": "384 B",
-      "modifiedTime": "2019-02-13T00:03:08.000Z",
-      "accessTime": "2019-02-13T12:45:25.677Z",
-      "changeTime": "2019-02-13T00:03:08.175Z",
+      "size": 448,
+      "prettySize": "448 B",
+      "modifiedTime": "2019-02-13T17:31:30.253Z",
+      "accessTime": "2019-02-13T19:43:35.780Z",
+      "changeTime": "2019-02-13T17:31:30.253Z",
       "birthTime": "2019-02-13T00:02:35.000Z",
       "root": "/",
       "dir": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/static",
@@ -3353,20 +3189,20 @@
       "relativeDirectory": "",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 12,
+      "nlink": 14,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
       "ino": 22478955,
       "blocks": 0,
-      "atimeMs": 1550061925677.3071,
-      "mtimeMs": 1550016188000,
-      "ctimeMs": 1550016188174.8088,
+      "atimeMs": 1550087015780.077,
+      "mtimeMs": 1550079090253.3408,
+      "ctimeMs": 1550079090253.3408,
       "birthtimeMs": 1550016155000,
-      "atime": "2019-02-13T12:45:25.677Z",
-      "mtime": "2019-02-13T00:03:08.000Z",
-      "ctime": "2019-02-13T00:03:08.175Z",
+      "atime": "2019-02-13T19:43:35.780Z",
+      "mtime": "2019-02-13T17:31:30.253Z",
+      "ctime": "2019-02-13T17:31:30.253Z",
       "birthtime": "2019-02-13T00:02:35.000Z"
     },
     "24791d3d-b57e-529e-937a-2cc1b48ca982": {
@@ -3944,7 +3780,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "2e10871dfa50863b16bc00df90671861",
+        "contentDigest": "d533b1874ff8e3963df5e1b9de10dc5b",
         "type": "Directory",
         "description": "Directory \"static\"",
         "owner": "gatsby-source-filesystem"
@@ -3956,7 +3792,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2019-02-13T12:02:57.421Z",
-      "accessTime": "2019-02-13T12:45:25.676Z",
+      "accessTime": "2019-02-13T19:43:35.779Z",
       "changeTime": "2019-02-13T12:11:41.945Z",
       "birthTime": "2019-02-13T00:02:35.000Z",
       "root": "/",
@@ -3974,11 +3810,11 @@
       "blksize": 4096,
       "ino": 22478952,
       "blocks": 0,
-      "atimeMs": 1550061925676.324,
+      "atimeMs": 1550087015778.916,
       "mtimeMs": 1550059377420.6802,
       "ctimeMs": 1550059901945.2227,
       "birthtimeMs": 1550016155000,
-      "atime": "2019-02-13T12:45:25.676Z",
+      "atime": "2019-02-13T19:43:35.779Z",
       "mtime": "2019-02-13T12:02:57.421Z",
       "ctime": "2019-02-13T12:11:41.945Z",
       "birthtime": "2019-02-13T00:02:35.000Z"
@@ -3988,7 +3824,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "9790ce9c0e3bdcb02355ed10b039407c",
+        "contentDigest": "315e77897e317f0abb8d8d2f4d7b7fdf",
         "type": "Directory",
         "description": "Directory \"static/admin\"",
         "owner": "gatsby-source-filesystem"
@@ -4000,7 +3836,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-02-13T00:03:00.000Z",
-      "accessTime": "2019-02-13T12:45:25.677Z",
+      "accessTime": "2019-02-13T19:43:35.780Z",
       "changeTime": "2019-02-13T00:03:00.413Z",
       "birthTime": "2019-02-13T00:02:35.000Z",
       "root": "/",
@@ -4018,11 +3854,11 @@
       "blksize": 4096,
       "ino": 22478953,
       "blocks": 0,
-      "atimeMs": 1550061925677.257,
+      "atimeMs": 1550087015780.057,
       "mtimeMs": 1550016180000,
       "ctimeMs": 1550016180412.841,
       "birthtimeMs": 1550016155000,
-      "atime": "2019-02-13T12:45:25.677Z",
+      "atime": "2019-02-13T19:43:35.780Z",
       "mtime": "2019-02-13T00:03:00.000Z",
       "ctime": "2019-02-13T00:03:00.413Z",
       "birthtime": "2019-02-13T00:02:35.000Z"
@@ -4184,683 +4020,6 @@
         "contentDigest": "246b133f20bf6d6d6178e5ea1552ab4b",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "SitePage /404": {
-      "jsonName": "404-c02",
-      "internalComponentName": "Component404",
-      "path": "/404",
-      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/not-found-template.js",
-      "componentChunkName": "component---src-templates-not-found-template-js",
-      "context": {},
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/not-found-template.js",
-      "id": "SitePage /404",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "8e73a12f64051896d5caee8ab657423d",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tags": {
-      "jsonName": "tags-cd4",
-      "internalComponentName": "ComponentTags",
-      "path": "/tags",
-      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tags-list-template.js",
-      "componentChunkName": "component---src-templates-tags-list-template-js",
-      "context": {},
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tags-list-template.js",
-      "id": "SitePage /tags",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "4cbc318720062a4cbc0c9dfa6804038f",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /categories": {
-      "jsonName": "categories-960",
-      "internalComponentName": "ComponentCategories",
-      "path": "/categories",
-      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/categories-list-template.js",
-      "componentChunkName": "component---src-templates-categories-list-template-js",
-      "context": {},
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/categories-list-template.js",
-      "id": "SitePage /categories",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "034ffc68ce6426a066d2ec124050d827",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /pages/about/": {
-      "jsonName": "pages-about-fd2",
-      "internalComponentName": "ComponentPagesAbout",
-      "path": "/pages/about/",
-      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/page-template.js",
-      "componentChunkName": "component---src-templates-page-template-js",
-      "context": {
-        "slug": "/pages/about/"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/page-template.js",
-      "id": "SitePage /pages/about/",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "79e2781c218d3da7aa86c04cebd089ee",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /posts/a-brief-history-of-typography/": {
-      "jsonName": "posts-a-brief-history-of-typography-7dd",
-      "internalComponentName": "ComponentPostsABriefHistoryOfTypography",
-      "path": "/posts/a-brief-history-of-typography/",
-      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/post-template.js",
-      "componentChunkName": "component---src-templates-post-template-js",
-      "context": {
-        "slug": "/posts/a-brief-history-of-typography/"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/post-template.js",
-      "id": "SitePage /posts/a-brief-history-of-typography/",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "076b8e46ad9bf2120f8b58dc570116f6",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /pages/contacts/": {
-      "jsonName": "pages-contacts-2bb",
-      "internalComponentName": "ComponentPagesContacts",
-      "path": "/pages/contacts/",
-      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/page-template.js",
-      "componentChunkName": "component---src-templates-page-template-js",
-      "context": {
-        "slug": "/pages/contacts/"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/page-template.js",
-      "id": "SitePage /pages/contacts/",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "aa7e0f9c7cc73afef4ee0ae3b348c489",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /posts/the-origins-of-social-stationery-lettering": {
-      "jsonName": "posts-the-origins-of-social-stationery-lettering-240",
-      "internalComponentName": "ComponentPostsTheOriginsOfSocialStationeryLettering",
-      "path": "/posts/the-origins-of-social-stationery-lettering",
-      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/post-template.js",
-      "componentChunkName": "component---src-templates-post-template-js",
-      "context": {
-        "slug": "/posts/the-origins-of-social-stationery-lettering"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/post-template.js",
-      "id": "SitePage /posts/the-origins-of-social-stationery-lettering",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "f9a6b142f9621cf7579291462ec58d66",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /posts/humane-typography-in-the-digital-age/": {
-      "jsonName": "posts-humane-typography-in-the-digital-age-733",
-      "internalComponentName": "ComponentPostsHumaneTypographyInTheDigitalAge",
-      "path": "/posts/humane-typography-in-the-digital-age/",
-      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/post-template.js",
-      "componentChunkName": "component---src-templates-post-template-js",
-      "context": {
-        "slug": "/posts/humane-typography-in-the-digital-age/"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/post-template.js",
-      "id": "SitePage /posts/humane-typography-in-the-digital-age/",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "a7a5e45db1ac4d2ab666e5f6227c2718",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /posts/the-birth-of-movable-type/": {
-      "jsonName": "posts-the-birth-of-movable-type-6bf",
-      "internalComponentName": "ComponentPostsTheBirthOfMovableType",
-      "path": "/posts/the-birth-of-movable-type/",
-      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/post-template.js",
-      "componentChunkName": "component---src-templates-post-template-js",
-      "context": {
-        "slug": "/posts/the-birth-of-movable-type/"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/post-template.js",
-      "id": "SitePage /posts/the-birth-of-movable-type/",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "7bbba97647c1110d1eb4711440e34d97",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tag/design": {
-      "jsonName": "tag-design-58e",
-      "internalComponentName": "ComponentTagDesign",
-      "path": "/tag/design",
-      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
-      "componentChunkName": "component---src-templates-tag-template-js",
-      "context": {
-        "tag": "Design",
-        "currentPage": 0,
-        "postsLimit": 4,
-        "postsOffset": 0,
-        "prevPagePath": "/tag/design",
-        "nextPagePath": "/tag/design/page/1",
-        "hasPrevPage": false,
-        "hasNextPage": false
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
-      "id": "SitePage /tag/design",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "74f4ee2c2ebdf7e880417d764122ea2a",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tag/gatsby": {
-      "jsonName": "tag-gatsby-b3a",
-      "internalComponentName": "ComponentTagGatsby",
-      "path": "/tag/gatsby",
-      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
-      "componentChunkName": "component---src-templates-tag-template-js",
-      "context": {
-        "tag": "Gatsby",
-        "currentPage": 0,
-        "postsLimit": 4,
-        "postsOffset": 0,
-        "prevPagePath": "/tag/gatsby",
-        "nextPagePath": "/tag/gatsby/page/1",
-        "hasPrevPage": false,
-        "hasNextPage": false
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
-      "id": "SitePage /tag/gatsby",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "831b447193b32fa322ffe0ba95fc8fd1",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tag/helvetica": {
-      "jsonName": "tag-helvetica-804",
-      "internalComponentName": "ComponentTagHelvetica",
-      "path": "/tag/helvetica",
-      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
-      "componentChunkName": "component---src-templates-tag-template-js",
-      "context": {
-        "tag": "Helvetica",
-        "currentPage": 0,
-        "postsLimit": 4,
-        "postsOffset": 0,
-        "prevPagePath": "/tag/helvetica",
-        "nextPagePath": "/tag/helvetica/page/1",
-        "hasPrevPage": false,
-        "hasNextPage": false
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
-      "id": "SitePage /tag/helvetica",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "caa20ebf5df07f2deeb133c596e6407f",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tag/history": {
-      "jsonName": "tag-history-9c5",
-      "internalComponentName": "ComponentTagHistory",
-      "path": "/tag/history",
-      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
-      "componentChunkName": "component---src-templates-tag-template-js",
-      "context": {
-        "tag": "History",
-        "currentPage": 0,
-        "postsLimit": 4,
-        "postsOffset": 0,
-        "prevPagePath": "/tag/history",
-        "nextPagePath": "/tag/history/page/1",
-        "hasPrevPage": false,
-        "hasNextPage": false
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
-      "id": "SitePage /tag/history",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "fd375b9f0d9776927652eb04df8266c0",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tag/history-of-typography": {
-      "jsonName": "tag-history-of-typography-eda",
-      "internalComponentName": "ComponentTagHistoryOfTypography",
-      "path": "/tag/history-of-typography",
-      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
-      "componentChunkName": "component---src-templates-tag-template-js",
-      "context": {
-        "tag": "History of typography",
-        "currentPage": 0,
-        "postsLimit": 4,
-        "postsOffset": 0,
-        "prevPagePath": "/tag/history-of-typography",
-        "nextPagePath": "/tag/history-of-typography/page/1",
-        "hasPrevPage": false,
-        "hasNextPage": false
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
-      "id": "SitePage /tag/history-of-typography",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "65f720502d954b37683887bff595f608",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tag/lettering": {
-      "jsonName": "tag-lettering-642",
-      "internalComponentName": "ComponentTagLettering",
-      "path": "/tag/lettering",
-      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
-      "componentChunkName": "component---src-templates-tag-template-js",
-      "context": {
-        "tag": "Lettering",
-        "currentPage": 0,
-        "postsLimit": 4,
-        "postsOffset": 0,
-        "prevPagePath": "/tag/lettering",
-        "nextPagePath": "/tag/lettering/page/1",
-        "hasPrevPage": false,
-        "hasNextPage": false
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
-      "id": "SitePage /tag/lettering",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "eb8a32167f277518bf8a7c0726a4b4ef",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tag/linotype": {
-      "jsonName": "tag-linotype-4fa",
-      "internalComponentName": "ComponentTagLinotype",
-      "path": "/tag/linotype",
-      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
-      "componentChunkName": "component---src-templates-tag-template-js",
-      "context": {
-        "tag": "Linotype",
-        "currentPage": 0,
-        "postsLimit": 4,
-        "postsOffset": 0,
-        "prevPagePath": "/tag/linotype",
-        "nextPagePath": "/tag/linotype/page/1",
-        "hasPrevPage": false,
-        "hasNextPage": false
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
-      "id": "SitePage /tag/linotype",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "6bb7e2ab692d4cfc76fc6e933cb67233",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tag/monotype": {
-      "jsonName": "tag-monotype-bfe",
-      "internalComponentName": "ComponentTagMonotype",
-      "path": "/tag/monotype",
-      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
-      "componentChunkName": "component---src-templates-tag-template-js",
-      "context": {
-        "tag": "Monotype",
-        "currentPage": 0,
-        "postsLimit": 4,
-        "postsOffset": 0,
-        "prevPagePath": "/tag/monotype",
-        "nextPagePath": "/tag/monotype/page/1",
-        "hasPrevPage": false,
-        "hasNextPage": false
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
-      "id": "SitePage /tag/monotype",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "dadc0c42e8e7e810cdbf9e8a6a77345b",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tag/open-source": {
-      "jsonName": "tag-open-source-37b",
-      "internalComponentName": "ComponentTagOpenSource",
-      "path": "/tag/open-source",
-      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
-      "componentChunkName": "component---src-templates-tag-template-js",
-      "context": {
-        "tag": "Open source",
-        "currentPage": 0,
-        "postsLimit": 4,
-        "postsOffset": 0,
-        "prevPagePath": "/tag/open-source",
-        "nextPagePath": "/tag/open-source/page/1",
-        "hasPrevPage": false,
-        "hasNextPage": false
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
-      "id": "SitePage /tag/open-source",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "22b57d35bdbde7d7b12fe37b22884ca6",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tag/typefaces": {
-      "jsonName": "tag-typefaces-872",
-      "internalComponentName": "ComponentTagTypefaces",
-      "path": "/tag/typefaces",
-      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
-      "componentChunkName": "component---src-templates-tag-template-js",
-      "context": {
-        "tag": "Typefaces",
-        "currentPage": 0,
-        "postsLimit": 4,
-        "postsOffset": 0,
-        "prevPagePath": "/tag/typefaces",
-        "nextPagePath": "/tag/typefaces/page/1",
-        "hasPrevPage": false,
-        "hasNextPage": false
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
-      "id": "SitePage /tag/typefaces",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "1429e0f688313f1840a14f0219241fc1",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tag/typography": {
-      "jsonName": "tag-typography-65a",
-      "internalComponentName": "ComponentTagTypography",
-      "path": "/tag/typography",
-      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
-      "componentChunkName": "component---src-templates-tag-template-js",
-      "context": {
-        "tag": "Typography",
-        "currentPage": 0,
-        "postsLimit": 4,
-        "postsOffset": 0,
-        "prevPagePath": "/tag/typography",
-        "nextPagePath": "/tag/typography/page/1",
-        "hasPrevPage": false,
-        "hasNextPage": false
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
-      "id": "SitePage /tag/typography",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "45189f0f1c14352954f617f00434cc95",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /tag/web-development": {
-      "jsonName": "tag-web-development-c12",
-      "internalComponentName": "ComponentTagWebDevelopment",
-      "path": "/tag/web-development",
-      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
-      "componentChunkName": "component---src-templates-tag-template-js",
-      "context": {
-        "tag": "Web Development",
-        "currentPage": 0,
-        "postsLimit": 4,
-        "postsOffset": 0,
-        "prevPagePath": "/tag/web-development",
-        "nextPagePath": "/tag/web-development/page/1",
-        "hasPrevPage": false,
-        "hasNextPage": false
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
-      "id": "SitePage /tag/web-development",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "bef365808caf8a82d377323e51d4da40",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /category/design-culture": {
-      "jsonName": "category-design-culture-f97",
-      "internalComponentName": "ComponentCategoryDesignCulture",
-      "path": "/category/design-culture",
-      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/category-template.js",
-      "componentChunkName": "component---src-templates-category-template-js",
-      "context": {
-        "category": "Design Culture",
-        "currentPage": 0,
-        "postsLimit": 4,
-        "postsOffset": 0,
-        "prevPagePath": "/category/design-culture",
-        "nextPagePath": "//category/design-culture/page/1",
-        "hasPrevPage": false,
-        "hasNextPage": false
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/category-template.js",
-      "id": "SitePage /category/design-culture",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "cc7c1b85c3889f3febf3bbd45f3df68f",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /category/design-inspiration": {
-      "jsonName": "category-design-inspiration-ac8",
-      "internalComponentName": "ComponentCategoryDesignInspiration",
-      "path": "/category/design-inspiration",
-      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/category-template.js",
-      "componentChunkName": "component---src-templates-category-template-js",
-      "context": {
-        "category": "Design Inspiration",
-        "currentPage": 0,
-        "postsLimit": 4,
-        "postsOffset": 0,
-        "prevPagePath": "/category/design-inspiration",
-        "nextPagePath": "//category/design-inspiration/page/1",
-        "hasPrevPage": false,
-        "hasNextPage": false
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/category-template.js",
-      "id": "SitePage /category/design-inspiration",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "10ac802c8d9cc727b4007c063df1a61f",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /category/typography": {
-      "jsonName": "category-typography-43b",
-      "internalComponentName": "ComponentCategoryTypography",
-      "path": "/category/typography",
-      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/category-template.js",
-      "componentChunkName": "component---src-templates-category-template-js",
-      "context": {
-        "category": "Typography",
-        "currentPage": 0,
-        "postsLimit": 4,
-        "postsOffset": 0,
-        "prevPagePath": "/category/typography",
-        "nextPagePath": "//category/typography/page/1",
-        "hasPrevPage": false,
-        "hasNextPage": false
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/category-template.js",
-      "id": "SitePage /category/typography",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "ee05b3a18495661384ec9692592bfec7",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /": {
-      "jsonName": "index",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/index-template.js",
-      "componentChunkName": "component---src-templates-index-template-js",
-      "context": {
-        "currentPage": 0,
-        "postsLimit": 4,
-        "postsOffset": 0,
-        "prevPagePath": "/",
-        "nextPagePath": "/page/1",
-        "hasPrevPage": false,
-        "hasNextPage": false
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/index-template.js",
-      "id": "SitePage /",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "f2665f862c266d16c6900d43e45bded3",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /posts/hallgeir-tester": {
-      "jsonName": "posts-hallgeir-tester-d33",
-      "internalComponentName": "ComponentPostsHallgeirTester",
-      "path": "/posts/hallgeir-tester",
-      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/post-template.js",
-      "componentChunkName": "component---src-templates-post-template-js",
-      "context": {
-        "slug": "/posts/hallgeir-tester"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/post-template.js",
-      "id": "SitePage /posts/hallgeir-tester",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "502be5a912099acacdef10f4dcb08959",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
       }
     },
     "833fd9a7-ec65-5fca-a907-907381afde7e": {
@@ -5077,6 +4236,745 @@
       "fields": {
         "slug": "/pages/about/"
       }
+    },
+    "7b7ba8c5-fa8f-5360-97ab-7cbd1a5e5144": {
+      "resolve": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/node_modules/gatsby-plugin-google-analytics",
+      "id": "7b7ba8c5-fa8f-5360-97ab-7cbd1a5e5144",
+      "name": "gatsby-plugin-google-analytics",
+      "version": "2.0.13",
+      "pluginOptions": {
+        "plugins": [],
+        "trackingId": "UA-134419368-1"
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onRouteUpdate"
+      ],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/node_modules/gatsby-plugin-google-analytics",
+      "packageJson": {
+        "name": "gatsby-plugin-google-analytics",
+        "description": "Gatsby plugin to add google analytics onto a site",
+        "version": "2.0.13",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "google analytics"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "a9c763d17219078e791569d6c9a39b58",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "aadc234c-493b-532f-96e4-1b2a697efb1d": {
+      "resolve": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/node_modules/gatsby-plugin-manifest",
+      "id": "aadc234c-493b-532f-96e4-1b2a697efb1d",
+      "name": "gatsby-plugin-manifest",
+      "version": "2.0.17",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "Blog by Hallgeir Gustavsen",
+        "short_name": "Blog by Hallgeir Gustavsen",
+        "start_url": "/",
+        "background_color": "#FFF",
+        "theme_color": "#F7A046",
+        "display": "standalone",
+        "icon": "static/photo.jpg"
+      },
+      "nodeAPIs": [
+        "onPostBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
+        "version": "2.0.17",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "icons",
+          "manifest.webmanifest",
+          "progressive-web-app",
+          "pwa"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "64692f0a12a88f05e03f1b96defb7f67",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404": {
+      "jsonName": "404-c02",
+      "internalComponentName": "Component404",
+      "path": "/404",
+      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/not-found-template.js",
+      "componentChunkName": "component---src-templates-not-found-template-js",
+      "context": {},
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/not-found-template.js",
+      "id": "SitePage /404",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "8e73a12f64051896d5caee8ab657423d",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags": {
+      "jsonName": "tags-cd4",
+      "internalComponentName": "ComponentTags",
+      "path": "/tags",
+      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tags-list-template.js",
+      "componentChunkName": "component---src-templates-tags-list-template-js",
+      "context": {},
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tags-list-template.js",
+      "id": "SitePage /tags",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4cbc318720062a4cbc0c9dfa6804038f",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /categories": {
+      "jsonName": "categories-960",
+      "internalComponentName": "ComponentCategories",
+      "path": "/categories",
+      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/categories-list-template.js",
+      "componentChunkName": "component---src-templates-categories-list-template-js",
+      "context": {},
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/categories-list-template.js",
+      "id": "SitePage /categories",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "034ffc68ce6426a066d2ec124050d827",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /posts/a-brief-history-of-typography/": {
+      "jsonName": "posts-a-brief-history-of-typography-7dd",
+      "internalComponentName": "ComponentPostsABriefHistoryOfTypography",
+      "path": "/posts/a-brief-history-of-typography/",
+      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/post-template.js",
+      "componentChunkName": "component---src-templates-post-template-js",
+      "context": {
+        "slug": "/posts/a-brief-history-of-typography/"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/post-template.js",
+      "id": "SitePage /posts/a-brief-history-of-typography/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "076b8e46ad9bf2120f8b58dc570116f6",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /pages/contacts/": {
+      "jsonName": "pages-contacts-2bb",
+      "internalComponentName": "ComponentPagesContacts",
+      "path": "/pages/contacts/",
+      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/page-template.js",
+      "componentChunkName": "component---src-templates-page-template-js",
+      "context": {
+        "slug": "/pages/contacts/"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/page-template.js",
+      "id": "SitePage /pages/contacts/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "aa7e0f9c7cc73afef4ee0ae3b348c489",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /posts/humane-typography-in-the-digital-age/": {
+      "jsonName": "posts-humane-typography-in-the-digital-age-733",
+      "internalComponentName": "ComponentPostsHumaneTypographyInTheDigitalAge",
+      "path": "/posts/humane-typography-in-the-digital-age/",
+      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/post-template.js",
+      "componentChunkName": "component---src-templates-post-template-js",
+      "context": {
+        "slug": "/posts/humane-typography-in-the-digital-age/"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/post-template.js",
+      "id": "SitePage /posts/humane-typography-in-the-digital-age/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a7a5e45db1ac4d2ab666e5f6227c2718",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /posts/hallgeir-tester": {
+      "jsonName": "posts-hallgeir-tester-d33",
+      "internalComponentName": "ComponentPostsHallgeirTester",
+      "path": "/posts/hallgeir-tester",
+      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/post-template.js",
+      "componentChunkName": "component---src-templates-post-template-js",
+      "context": {
+        "slug": "/posts/hallgeir-tester"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/post-template.js",
+      "id": "SitePage /posts/hallgeir-tester",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "502be5a912099acacdef10f4dcb08959",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /pages/about/": {
+      "jsonName": "pages-about-fd2",
+      "internalComponentName": "ComponentPagesAbout",
+      "path": "/pages/about/",
+      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/page-template.js",
+      "componentChunkName": "component---src-templates-page-template-js",
+      "context": {
+        "slug": "/pages/about/"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/page-template.js",
+      "id": "SitePage /pages/about/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "79e2781c218d3da7aa86c04cebd089ee",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tag/design": {
+      "jsonName": "tag-design-58e",
+      "internalComponentName": "ComponentTagDesign",
+      "path": "/tag/design",
+      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
+      "componentChunkName": "component---src-templates-tag-template-js",
+      "context": {
+        "tag": "Design",
+        "currentPage": 0,
+        "postsLimit": 5,
+        "postsOffset": 0,
+        "prevPagePath": "/tag/design",
+        "nextPagePath": "/tag/design/page/1",
+        "hasPrevPage": false,
+        "hasNextPage": false
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
+      "id": "SitePage /tag/design",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d232088040fa0303664557b54c5151b1",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tag/helvetica": {
+      "jsonName": "tag-helvetica-804",
+      "internalComponentName": "ComponentTagHelvetica",
+      "path": "/tag/helvetica",
+      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
+      "componentChunkName": "component---src-templates-tag-template-js",
+      "context": {
+        "tag": "Helvetica",
+        "currentPage": 0,
+        "postsLimit": 5,
+        "postsOffset": 0,
+        "prevPagePath": "/tag/helvetica",
+        "nextPagePath": "/tag/helvetica/page/1",
+        "hasPrevPage": false,
+        "hasNextPage": false
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
+      "id": "SitePage /tag/helvetica",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "907e380d91525985ade85297841fee7b",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tag/history": {
+      "jsonName": "tag-history-9c5",
+      "internalComponentName": "ComponentTagHistory",
+      "path": "/tag/history",
+      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
+      "componentChunkName": "component---src-templates-tag-template-js",
+      "context": {
+        "tag": "History",
+        "currentPage": 0,
+        "postsLimit": 5,
+        "postsOffset": 0,
+        "prevPagePath": "/tag/history",
+        "nextPagePath": "/tag/history/page/1",
+        "hasPrevPage": false,
+        "hasNextPage": false
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
+      "id": "SitePage /tag/history",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "8f6ac4b12dfa2688790211f8a0b68448",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tag/history-of-typography": {
+      "jsonName": "tag-history-of-typography-eda",
+      "internalComponentName": "ComponentTagHistoryOfTypography",
+      "path": "/tag/history-of-typography",
+      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
+      "componentChunkName": "component---src-templates-tag-template-js",
+      "context": {
+        "tag": "History of typography",
+        "currentPage": 0,
+        "postsLimit": 5,
+        "postsOffset": 0,
+        "prevPagePath": "/tag/history-of-typography",
+        "nextPagePath": "/tag/history-of-typography/page/1",
+        "hasPrevPage": false,
+        "hasNextPage": false
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
+      "id": "SitePage /tag/history-of-typography",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "379efa975d8d9c12c976a2c93605838b",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tag/lettering": {
+      "jsonName": "tag-lettering-642",
+      "internalComponentName": "ComponentTagLettering",
+      "path": "/tag/lettering",
+      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
+      "componentChunkName": "component---src-templates-tag-template-js",
+      "context": {
+        "tag": "Lettering",
+        "currentPage": 0,
+        "postsLimit": 5,
+        "postsOffset": 0,
+        "prevPagePath": "/tag/lettering",
+        "nextPagePath": "/tag/lettering/page/1",
+        "hasPrevPage": false,
+        "hasNextPage": false
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
+      "id": "SitePage /tag/lettering",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "48a3811331d05f7d8826b0b8cb682867",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tag/linotype": {
+      "jsonName": "tag-linotype-4fa",
+      "internalComponentName": "ComponentTagLinotype",
+      "path": "/tag/linotype",
+      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
+      "componentChunkName": "component---src-templates-tag-template-js",
+      "context": {
+        "tag": "Linotype",
+        "currentPage": 0,
+        "postsLimit": 5,
+        "postsOffset": 0,
+        "prevPagePath": "/tag/linotype",
+        "nextPagePath": "/tag/linotype/page/1",
+        "hasPrevPage": false,
+        "hasNextPage": false
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
+      "id": "SitePage /tag/linotype",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5e9f81d94797cc278ef01aef76223257",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tag/monotype": {
+      "jsonName": "tag-monotype-bfe",
+      "internalComponentName": "ComponentTagMonotype",
+      "path": "/tag/monotype",
+      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
+      "componentChunkName": "component---src-templates-tag-template-js",
+      "context": {
+        "tag": "Monotype",
+        "currentPage": 0,
+        "postsLimit": 5,
+        "postsOffset": 0,
+        "prevPagePath": "/tag/monotype",
+        "nextPagePath": "/tag/monotype/page/1",
+        "hasPrevPage": false,
+        "hasNextPage": false
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
+      "id": "SitePage /tag/monotype",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4d7c7db8acf7dfab9c2e36015e6c0c86",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tag/typefaces": {
+      "jsonName": "tag-typefaces-872",
+      "internalComponentName": "ComponentTagTypefaces",
+      "path": "/tag/typefaces",
+      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
+      "componentChunkName": "component---src-templates-tag-template-js",
+      "context": {
+        "tag": "Typefaces",
+        "currentPage": 0,
+        "postsLimit": 5,
+        "postsOffset": 0,
+        "prevPagePath": "/tag/typefaces",
+        "nextPagePath": "/tag/typefaces/page/1",
+        "hasPrevPage": false,
+        "hasNextPage": false
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
+      "id": "SitePage /tag/typefaces",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "aed9966462c4b6b02cf99744b234e512",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tag/typography": {
+      "jsonName": "tag-typography-65a",
+      "internalComponentName": "ComponentTagTypography",
+      "path": "/tag/typography",
+      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
+      "componentChunkName": "component---src-templates-tag-template-js",
+      "context": {
+        "tag": "Typography",
+        "currentPage": 0,
+        "postsLimit": 5,
+        "postsOffset": 0,
+        "prevPagePath": "/tag/typography",
+        "nextPagePath": "/tag/typography/page/1",
+        "hasPrevPage": false,
+        "hasNextPage": false
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
+      "id": "SitePage /tag/typography",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "610b34cd64964967e836750e93331a72",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tag/web-development": {
+      "jsonName": "tag-web-development-c12",
+      "internalComponentName": "ComponentTagWebDevelopment",
+      "path": "/tag/web-development",
+      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
+      "componentChunkName": "component---src-templates-tag-template-js",
+      "context": {
+        "tag": "Web Development",
+        "currentPage": 0,
+        "postsLimit": 5,
+        "postsOffset": 0,
+        "prevPagePath": "/tag/web-development",
+        "nextPagePath": "/tag/web-development/page/1",
+        "hasPrevPage": false,
+        "hasNextPage": false
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/tag-template.js",
+      "id": "SitePage /tag/web-development",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0f0e3ae8cbc447b828de40fd3f971c35",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /category/design-culture": {
+      "jsonName": "category-design-culture-f97",
+      "internalComponentName": "ComponentCategoryDesignCulture",
+      "path": "/category/design-culture",
+      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/category-template.js",
+      "componentChunkName": "component---src-templates-category-template-js",
+      "context": {
+        "category": "Design Culture",
+        "currentPage": 0,
+        "postsLimit": 5,
+        "postsOffset": 0,
+        "prevPagePath": "/category/design-culture",
+        "nextPagePath": "//category/design-culture/page/1",
+        "hasPrevPage": false,
+        "hasNextPage": false
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/category-template.js",
+      "id": "SitePage /category/design-culture",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "910f98ccd76305cc421cfdda5078a7a8",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /category/design-inspiration": {
+      "jsonName": "category-design-inspiration-ac8",
+      "internalComponentName": "ComponentCategoryDesignInspiration",
+      "path": "/category/design-inspiration",
+      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/category-template.js",
+      "componentChunkName": "component---src-templates-category-template-js",
+      "context": {
+        "category": "Design Inspiration",
+        "currentPage": 0,
+        "postsLimit": 5,
+        "postsOffset": 0,
+        "prevPagePath": "/category/design-inspiration",
+        "nextPagePath": "//category/design-inspiration/page/1",
+        "hasPrevPage": false,
+        "hasNextPage": false
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/category-template.js",
+      "id": "SitePage /category/design-inspiration",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "168ea89103d39e2ec04a766e2baa441d",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /category/typography": {
+      "jsonName": "category-typography-43b",
+      "internalComponentName": "ComponentCategoryTypography",
+      "path": "/category/typography",
+      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/category-template.js",
+      "componentChunkName": "component---src-templates-category-template-js",
+      "context": {
+        "category": "Typography",
+        "currentPage": 0,
+        "postsLimit": 5,
+        "postsOffset": 0,
+        "prevPagePath": "/category/typography",
+        "nextPagePath": "//category/typography/page/1",
+        "hasPrevPage": false,
+        "hasNextPage": false
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/category-template.js",
+      "id": "SitePage /category/typography",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "31099e4cb974038449c4e1d626864283",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/index-template.js",
+      "componentChunkName": "component---src-templates-index-template-js",
+      "context": {
+        "currentPage": 0,
+        "postsLimit": 5,
+        "postsOffset": 0,
+        "prevPagePath": "/",
+        "nextPagePath": "/page/1",
+        "hasPrevPage": false,
+        "hasNextPage": false
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/index-template.js",
+      "id": "SitePage /",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "414fd2d55b13e92d85417e7be81e9fd0",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
@@ -5165,33 +5063,33 @@
     "sq--src-components-post-comments-comments-js": 1989642023,
     "sq--src-components-sidebar-sidebar-js": 1657995839,
     "sq--src-components-post-author-author-js": 2015307863,
-    "category-design-culture-f97": "584/path---category-design-culture-f-97-b75-CqwbwysxWtGA3F8IkIAlV0PuDys",
-    "category-typography-43b": "180/path---category-typography-43-b-dee-8RC85GDUkk2q3cxby3lehScUPc4",
-    "categories-960": "374/path---categories-960-628-EmlRlXV1KR2zze84fFPK8pUufk0",
-    "category-design-inspiration-ac8": "57/path---category-design-inspiration-ac-8-392-ZCzEAS49gB9bwon44LtwsIi0v0",
-    "index": "754/path---index-6a9-bfCo7vSWLgVyPeMJYp5lo7Y4",
-    "tag-design-58e": "193/path---tag-design-58-e-eb5-hw8DZskagrpGbuvhEcNasWULY",
-    "404-c02": "869/path---404-c-02-3e9-CcFnt8PDy1fkjb1eCnuq36UR1RQ",
+    "category-design-culture-f97": "58/path---category-design-culture-f-97-b75-pfn85QEbEps7HFLO07OsVMV3yo",
+    "category-typography-43b": "458/path---category-typography-43-b-dee-aLo79OWXM24zDq40D1RZa4FlC30",
+    "categories-960": "369/path---categories-960-628-wK0rIpQbfH7y2AiysAk8VaDW8g",
+    "category-design-inspiration-ac8": "923/path---category-design-inspiration-ac-8-392-mYfuj8l5cjQjKif3U9QhTq4qLsI",
+    "index": "407/path---index-6a9-zPRaTbdqLNIkIzfvAZ70z8ZPjdQ",
+    "tag-design-58e": "878/path---tag-design-58-e-eb5-XWYyIiCYVmVJmqUBk6YZ4PUnDk",
+    "404-c02": "257/path---404-c-02-3e9-3TqpLTTxceL67aPyzApL2CVbU4",
     "tag-gatsby-b3a": "652/path---tag-gatsby-b-3-a-78f-OD0BAwagsftM1Nza7Bok4IWuTc",
-    "tag-helvetica-804": "135/path---tag-helvetica-804-e70-KxUNKB1DBe3GtW6meC4Kq7D1PSM",
-    "pages-about-fd2": "925/path---pages-about-fd-2-e6f-GC27wM7nl5A7x94TAwjs1yiUhZE",
-    "pages-contacts-2bb": "609/path---pages-contacts-2-bb-fd5-w0Tjiul6cPgH6j1cTiY2SvUqt7w",
-    "tag-history-9c5": "385/path---tag-history-9-c-5-f1c-wNR5GVbpcbtavrbSACkdAsuX70",
-    "tag-history-of-typography-eda": "957/path---tag-history-of-typography-eda-b07-ddVroogUj738QfDxkIKYXbOKaDo",
-    "tag-lettering-642": "57/path---tag-lettering-642-200-I9XMaPT8VbBHzg1PY2QqU4Lts8s",
-    "tag-linotype-4fa": "924/path---tag-linotype-4-fa-48e-QkImDwjplXIkHaDHgxmkb2FJw",
-    "tag-monotype-bfe": "618/path---tag-monotype-bfe-4d0-do4f6ibepnt0j8s4szvKS7BkDU",
+    "tag-helvetica-804": "108/path---tag-helvetica-804-e70-pcznJu6LPwyk2edmB5zYaQsn3Q",
+    "pages-about-fd2": "859/path---pages-about-fd-2-e6f-TmZurS9dpyd1s2jzyXnwdgU8Xc",
+    "pages-contacts-2bb": "599/path---pages-contacts-2-bb-fd5-uP34OTXm8JesXiLIA4os6eUNys",
+    "tag-history-9c5": "778/path---tag-history-9-c-5-f1c-CIhLv0UxurGrhQbnECwTMgyMLCQ",
+    "tag-history-of-typography-eda": "396/path---tag-history-of-typography-eda-b07-Xo3T5l3QojMx4exiASofDftYBwI",
+    "tag-lettering-642": "776/path---tag-lettering-642-200-2F1nfmjz73jY3k9F0kBxFbjyWM",
+    "tag-linotype-4fa": "849/path---tag-linotype-4-fa-48e-p5p8BIG1k8dWPhd7i7jxI7UD0",
+    "tag-monotype-bfe": "908/path---tag-monotype-bfe-4d0-yIiZrpaZSpNUfGPO3LKOSrLiArQ",
     "tag-open-source-37b": "672/path---tag-open-source-37-b-5fa-c22K5VOVKgAwggZ9qSnoYacexU",
-    "tag-typefaces-872": "849/path---tag-typefaces-872-222-3le0T1jR6ffMy6q0NvPj4MiqXY",
-    "tag-typography-65a": "134/path---tag-typography-65-a-7ae-E64JiWzUxuHEyhGmVJQ0upHcBsU",
-    "tag-web-development-c12": "808/path---tag-web-development-c-12-252-iEz1slSDxGlO1ygx2LjfT62MkU",
-    "posts-a-brief-history-of-typography-7dd": "202/path---posts-a-brief-history-of-typography-7-dd-3b3-cAWTsnXdQQtEf9PKJDDGhmfp4o",
+    "tag-typefaces-872": "651/path---tag-typefaces-872-222-nPVOy6PjQKcOcXYLaZ4NCsbWYFQ",
+    "tag-typography-65a": "269/path---tag-typography-65-a-7ae-rs0nEJRs8PB1gyCLDyIkJgzIXak",
+    "tag-web-development-c12": "576/path---tag-web-development-c-12-252-qORggnhcKwjqR0tx3qTfxtjjQ",
+    "posts-a-brief-history-of-typography-7dd": "862/path---posts-a-brief-history-of-typography-7-dd-3b3-COQil4qHFwMxBNN4vn2sMZjDzRk",
     "posts-the-origins-of-social-stationery-lettering-240": "812/path---posts-the-origins-of-social-stationery-lettering-240-a50-yBn4J1J7GVTuD0YkSdkVqu6DuCU",
-    "posts-humane-typography-in-the-digital-age-733": "837/path---posts-humane-typography-in-the-digital-age-733-28c-i3G7Mh2jFaQhAzRCgD33PAmSNIA",
+    "posts-humane-typography-in-the-digital-age-733": "302/path---posts-humane-typography-in-the-digital-age-733-28c-rLm2G3TPek4iDiiFMrBIc04nA",
     "posts-the-birth-of-movable-type-6bf": "76/path---posts-the-birth-of-movable-type-6-bf-ee4-noW8cwR2trP0KfFVx8mgBqNUThg",
-    "tags-cd4": "703/path---tags-cd-4-e51-ASh4GZKshMkPoNjxzcaYQgCvlT4",
+    "tags-cd4": "697/path---tags-cd-4-e51-e4KVjtVvqOwZTS7Th71M4Cjrk",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
-    "posts-hallgeir-tester-d33": "750/path---posts-hallgeir-tester-d-33-861-s3Tv4jn0l64B9iM5yzZKALPNP18"
+    "posts-hallgeir-tester-d33": "321/path---posts-hallgeir-tester-d-33-861-uavBL8D1UVUm5ljtXkI3GOI8Ak"
   },
   "components": {
     "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/not-found-template.js": {

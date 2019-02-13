@@ -60,24 +60,9 @@
         "path": "/posts/humane-typography-in-the-digital-age/"
     },
     {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "jsonName": "posts-the-birth-of-movable-type-6bf",
-        "path": "/posts/the-birth-of-movable-type/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "jsonName": "posts-the-origins-of-social-stationery-lettering-240",
-        "path": "/posts/the-origins-of-social-stationery-lettering"
-    },
-    {
         "componentChunkName": "component---src-templates-tag-template-js",
         "jsonName": "tag-design-58e",
         "path": "/tag/design"
-    },
-    {
-        "componentChunkName": "component---src-templates-tag-template-js",
-        "jsonName": "tag-gatsby-b3a",
-        "path": "/tag/gatsby"
     },
     {
         "componentChunkName": "component---src-templates-tag-template-js",
@@ -108,11 +93,6 @@
         "componentChunkName": "component---src-templates-tag-template-js",
         "jsonName": "tag-monotype-bfe",
         "path": "/tag/monotype"
-    },
-    {
-        "componentChunkName": "component---src-templates-tag-template-js",
-        "jsonName": "tag-open-source-37b",
-        "path": "/tag/open-source"
     },
     {
         "componentChunkName": "component---src-templates-tag-template-js",

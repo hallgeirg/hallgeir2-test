@@ -6,7 +6,7 @@ module.exports = [{
       options: {"plugins":[],"modulePath":"/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/cms/cms.js"},
     },{
       plugin: require('/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/node_modules/gatsby-plugin-google-analytics/gatsby-browser.js'),
-      options: {"plugins":[],"trackingId":"UA-73379983-2"},
+      options: {"plugins":[],"trackingId":"UA-134419368-1"},
     },{
       plugin: require('/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/node_modules/gatsby-plugin-offline/gatsby-browser.js'),
       options: {"plugins":[]},
