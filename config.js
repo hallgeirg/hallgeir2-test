@@ -1,38 +1,38 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://hallgeir-test.netlify.com',
   title: 'Blog by Hallgeir Gustavsen',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: '#addmorewow!! Jeg er Hallgeir, daglig leder og kreativ rådgiver i Vecora - digitalbyrå i Sandnes',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  postsPerPage: 5,
+  googleAnalyticsId: 'UA-134419368-1',
   menu: [
     {
-      label: 'Articles',
+      label: 'Blogg',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'Om Hallgeir',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'Kontakt meg',
       path: '/pages/contacts'
     }
   ],
   author: {
     name: 'Hallgeir Gustavsen',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: '#addmorewow!! Jeg er Hallgeir, daglig leder og kreativ rådgiver i Vecora - digitalbyrå i Sandnes',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'hallgeir@vecora.no',
+      telegram: 'hallgeirg',
+      twitter: 'hallgeirg',
+      github: 'hallgeirg',
       rss: '#',
-      vkontakte: '#'
+      vkontakte: 'hallgeirg'
     }
   }
 };
