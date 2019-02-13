@@ -15,13 +15,10 @@ tags:
 ---
 `video: https://www.youtube.com/embed/2Xc9gXyf2G4`
 
-
 Kunden din blir smartere og smartere. Du tror det kanskje ikke, men kundene dine blir smartere og smartere. De sjekker priser på nett og anmeldelser og finner de beste tilbudene.
 
-
+![ikke prøv å lure kunden din](/media/5c3c2ac26bc47142ed04e286_maxresdefault.jpg "Ikke prøv å lure kunden din")
 
 Gi av deg selv og innse at kunden din har aldri vært mer opplyst!
-
-
 
 Som digitalbyrå er det vår plikt og ekspertise å veilede deg i den harde kampen om oppmerksomhet. Vi hever kvaliteten på ditt innhold i sosiale medier og på dine nettsider. Vi skviser maks ut av kronene du bruker på digital annonsering. Og våre rådgivere gir deg tett oppfølging, hele veien i mål.
