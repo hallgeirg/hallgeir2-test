@@ -10,7 +10,7 @@ describe('Sidebar', () => {
           siteMetadata: {
             author: {
               name: 'name',
-              photo: '/HG-logo.png',
+              photo: 'static/HG-logo.png',
               bio: 'bio',
               contacts: {
                 email: 'hallgeir@vecora.no',

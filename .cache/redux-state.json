@@ -2885,12 +2885,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-02-13T12:37:48.806Z",
+      "buildTime": "2019-02-13T12:45:20.240Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "ce56d9020365f941e4e0db1962a395a9",
+        "contentDigest": "8042f9bb6a5540a42431d6988ff1c82e",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2900,7 +2900,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "562007d3c7c75c6817386da63967ddc7",
+        "contentDigest": "792d7d12fe0f7acd8cf3a0f96a638102",
         "type": "Directory",
         "description": "Directory \"content\"",
         "owner": "gatsby-source-filesystem"
@@ -2912,7 +2912,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2019-02-13T00:03:04.000Z",
-      "accessTime": "2019-02-13T12:37:55.610Z",
+      "accessTime": "2019-02-13T12:45:25.638Z",
       "changeTime": "2019-02-13T12:11:41.917Z",
       "birthTime": "2019-02-13T00:02:34.000Z",
       "root": "/",
@@ -2930,11 +2930,11 @@
       "blksize": 4096,
       "ino": 22478761,
       "blocks": 0,
-      "atimeMs": 1550061475609.7178,
+      "atimeMs": 1550061925637.8809,
       "mtimeMs": 1550016184000,
       "ctimeMs": 1550059901917.0918,
       "birthtimeMs": 1550016154000,
-      "atime": "2019-02-13T12:37:55.610Z",
+      "atime": "2019-02-13T12:45:25.638Z",
       "mtime": "2019-02-13T00:03:04.000Z",
       "ctime": "2019-02-13T12:11:41.917Z",
       "birthtime": "2019-02-13T00:02:34.000Z"
@@ -2944,7 +2944,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "7fb6c213b1a5e8f15f884f3665e4bb63",
+        "contentDigest": "77446faecd501a0250a1365f81e41588",
         "type": "Directory",
         "description": "Directory \"content/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -2956,7 +2956,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2019-02-13T00:03:00.000Z",
-      "accessTime": "2019-02-13T12:37:55.611Z",
+      "accessTime": "2019-02-13T12:45:25.640Z",
       "changeTime": "2019-02-13T00:03:00.417Z",
       "birthTime": "2019-02-13T00:02:34.000Z",
       "root": "/",
@@ -2974,11 +2974,11 @@
       "blksize": 4096,
       "ino": 22478762,
       "blocks": 0,
-      "atimeMs": 1550061475611.469,
+      "atimeMs": 1550061925640.425,
       "mtimeMs": 1550016180000,
       "ctimeMs": 1550016180417.2673,
       "birthtimeMs": 1550016154000,
-      "atime": "2019-02-13T12:37:55.611Z",
+      "atime": "2019-02-13T12:45:25.640Z",
       "mtime": "2019-02-13T00:03:00.000Z",
       "ctime": "2019-02-13T00:03:00.417Z",
       "birthtime": "2019-02-13T00:02:34.000Z"
@@ -2988,7 +2988,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "ef520261223a39a68f28482863b18095",
+        "contentDigest": "629d8b888c9dc7821622274bc39dc9df",
         "type": "Directory",
         "description": "Directory \"content/posts\"",
         "owner": "gatsby-source-filesystem"
@@ -3000,7 +3000,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2019-02-13T12:01:06.912Z",
-      "accessTime": "2019-02-13T12:37:55.611Z",
+      "accessTime": "2019-02-13T12:45:25.640Z",
       "changeTime": "2019-02-13T12:01:06.912Z",
       "birthTime": "2019-02-13T00:02:34.000Z",
       "root": "/",
@@ -3018,11 +3018,11 @@
       "blksize": 4096,
       "ino": 22478765,
       "blocks": 0,
-      "atimeMs": 1550061475611.4941,
+      "atimeMs": 1550061925640.438,
       "mtimeMs": 1550059266911.7437,
       "ctimeMs": 1550059266911.7437,
       "birthtimeMs": 1550016154000,
-      "atime": "2019-02-13T12:37:55.611Z",
+      "atime": "2019-02-13T12:45:25.640Z",
       "mtime": "2019-02-13T12:01:06.912Z",
       "ctime": "2019-02-13T12:01:06.912Z",
       "birthtime": "2019-02-13T00:02:34.000Z"
@@ -3532,7 +3532,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "7c9c42aeaf358ecd9cfb6869d618a92b",
+        "contentDigest": "c4c6ca5f4807648d3c6acd1bccfee159",
         "type": "Directory",
         "description": "Directory \"static/media\"",
         "owner": "gatsby-source-filesystem"
@@ -3544,7 +3544,7 @@
       "size": 384,
       "prettySize": "384 B",
       "modifiedTime": "2019-02-13T00:03:08.000Z",
-      "accessTime": "2019-02-13T12:37:55.707Z",
+      "accessTime": "2019-02-13T12:45:25.677Z",
       "changeTime": "2019-02-13T00:03:08.175Z",
       "birthTime": "2019-02-13T00:02:35.000Z",
       "root": "/",
@@ -3562,11 +3562,11 @@
       "blksize": 4096,
       "ino": 22478955,
       "blocks": 0,
-      "atimeMs": 1550061475706.6443,
+      "atimeMs": 1550061925677.3071,
       "mtimeMs": 1550016188000,
       "ctimeMs": 1550016188174.8088,
       "birthtimeMs": 1550016155000,
-      "atime": "2019-02-13T12:37:55.707Z",
+      "atime": "2019-02-13T12:45:25.677Z",
       "mtime": "2019-02-13T00:03:08.000Z",
       "ctime": "2019-02-13T00:03:08.175Z",
       "birthtime": "2019-02-13T00:02:35.000Z"
@@ -4146,7 +4146,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "941842abe19b3ba3a797771bed5a8786",
+        "contentDigest": "2e10871dfa50863b16bc00df90671861",
         "type": "Directory",
         "description": "Directory \"static\"",
         "owner": "gatsby-source-filesystem"
@@ -4158,7 +4158,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2019-02-13T12:02:57.421Z",
-      "accessTime": "2019-02-13T12:37:55.705Z",
+      "accessTime": "2019-02-13T12:45:25.676Z",
       "changeTime": "2019-02-13T12:11:41.945Z",
       "birthTime": "2019-02-13T00:02:35.000Z",
       "root": "/",
@@ -4176,11 +4176,11 @@
       "blksize": 4096,
       "ino": 22478952,
       "blocks": 0,
-      "atimeMs": 1550061475704.6118,
+      "atimeMs": 1550061925676.324,
       "mtimeMs": 1550059377420.6802,
       "ctimeMs": 1550059901945.2227,
       "birthtimeMs": 1550016155000,
-      "atime": "2019-02-13T12:37:55.705Z",
+      "atime": "2019-02-13T12:45:25.676Z",
       "mtime": "2019-02-13T12:02:57.421Z",
       "ctime": "2019-02-13T12:11:41.945Z",
       "birthtime": "2019-02-13T00:02:35.000Z"
@@ -4190,7 +4190,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "9394bfae9ca874e0c688eb6b69ca7cea",
+        "contentDigest": "9790ce9c0e3bdcb02355ed10b039407c",
         "type": "Directory",
         "description": "Directory \"static/admin\"",
         "owner": "gatsby-source-filesystem"
@@ -4202,7 +4202,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-02-13T00:03:00.000Z",
-      "accessTime": "2019-02-13T12:37:55.707Z",
+      "accessTime": "2019-02-13T12:45:25.677Z",
       "changeTime": "2019-02-13T00:03:00.413Z",
       "birthTime": "2019-02-13T00:02:35.000Z",
       "root": "/",
@@ -4220,11 +4220,11 @@
       "blksize": 4096,
       "ino": 22478953,
       "blocks": 0,
-      "atimeMs": 1550061475706.6177,
+      "atimeMs": 1550061925677.257,
       "mtimeMs": 1550016180000,
       "ctimeMs": 1550016180412.841,
       "birthtimeMs": 1550016155000,
-      "atime": "2019-02-13T12:37:55.707Z",
+      "atime": "2019-02-13T12:45:25.677Z",
       "mtime": "2019-02-13T00:03:00.000Z",
       "ctime": "2019-02-13T00:03:00.413Z",
       "birthtime": "2019-02-13T00:02:35.000Z"
@@ -5076,9 +5076,9 @@
         "/posts/humane-typography-in-the-digital-age/",
         "/posts/the-birth-of-movable-type/",
         "/tags",
+        "sq--src-components-post-author-author-js",
         "sq--src-components-post-comments-comments-js",
-        "sq--src-components-sidebar-sidebar-js",
-        "sq--src-components-post-author-author-js"
+        "sq--src-components-sidebar-sidebar-js"
       ],
       "37e80c4c-0475-5bbe-bece-416a8eb697f8": [
         "/pages/about/"
@@ -5119,7 +5119,8 @@
         "/tag/typefaces",
         "/tag/typography",
         "/tag/web-development",
-        "/tags"
+        "/tags",
+        null
       ]
     }
   },
