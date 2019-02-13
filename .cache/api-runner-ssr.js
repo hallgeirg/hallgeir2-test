@@ -9,7 +9,7 @@ var plugins = [{
       options: {"plugins":[],"query":"\n          {\n            site {\n              siteMetadata {\n                url\n              }\n            }\n            allSitePage(\n              filter: {\n                path: { regex: \"/^(?!/404/|/404.html|/dev-404-page/)/\" }\n              }\n            ) {\n              edges {\n                node {\n                  path\n                }\n              }\n            }\n          }\n        ","output":"/sitemap.xml"},
     },{
       plugin: require('/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Blog by John Doe","short_name":"Blog by John Doe","start_url":"/","background_color":"#FFF","theme_color":"#F7A046","display":"standalone","icon":"static/photo.jpg"},
+      options: {"plugins":[],"name":"Blog by Hallgeir Gustavsen","short_name":"Blog by Hallgeir Gustavsen","start_url":"/","background_color":"#FFF","theme_color":"#F7A046","display":"standalone","icon":"static/photo.jpg"},
     },{
       plugin: require('/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},

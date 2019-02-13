@@ -5,12 +5,12 @@ import Contacts from './Contacts';
 describe('Contacts', () => {
   const props = {
     contacts: {
-      email: '#',
-      twitter: '#',
-      vkontakte: '#',
-      github: '#',
-      rss: '#',
-      telegram: '#'
+      email: 'hallgeir@vecora.no',
+      twitter: 'hallgeirg',
+      vkontakte: 'hallgeirg',
+      github: 'hallgeirg',
+      rss: 'hallgeirg',
+      telegram: 'hallgeirg'
     }
   };
 

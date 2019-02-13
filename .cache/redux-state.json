@@ -2003,8 +2003,8 @@
       "version": "2.0.17",
       "pluginOptions": {
         "plugins": [],
-        "name": "Blog by John Doe",
-        "short_name": "Blog by John Doe",
+        "name": "Blog by Hallgeir Gustavsen",
+        "short_name": "Blog by Hallgeir Gustavsen",
         "start_url": "/",
         "background_color": "#FFF",
         "theme_color": "#F7A046",
@@ -2849,7 +2849,7 @@
     "Site": {
       "siteMetadata": {
         "url": "https://lumen.netlify.com",
-        "title": "Blog by John Doe",
+        "title": "Blog by Hallgeir Gustavsen",
         "subtitle": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
         "copyright": "© All rights reserved.",
         "disqusShortname": "",
@@ -2868,7 +2868,7 @@
           }
         ],
         "author": {
-          "name": "John Doe",
+          "name": "Hallgeir Gustavsen",
           "photo": "/photo.jpg",
           "bio": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
           "contacts": {
@@ -3034,7 +3034,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "fb515ef664d9e3f7488df2f362743e20",
+        "contentDigest": "d5ab8172f157a8099ba0af219d53b498",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"content/pages/about.md\"",
@@ -3044,12 +3044,12 @@
       "absolutePath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/content/pages/about.md",
       "relativePath": "pages/about.md",
       "extension": "md",
-      "size": 1082,
-      "prettySize": "1.08 kB",
-      "modifiedTime": "2019-02-13T00:02:34.930Z",
-      "accessTime": "2019-02-13T12:13:11.143Z",
-      "changeTime": "2019-02-13T00:02:35.375Z",
-      "birthTime": "2019-02-13T00:02:34.930Z",
+      "size": 2873,
+      "prettySize": "2.87 kB",
+      "modifiedTime": "2019-02-13T17:34:45.607Z",
+      "accessTime": "2019-02-13T17:34:45.607Z",
+      "changeTime": "2019-02-13T17:34:45.607Z",
+      "birthTime": "2019-02-13T17:31:30.251Z",
       "root": "/",
       "dir": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/content/pages",
       "base": "about.md",
@@ -3063,16 +3063,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 22478763,
+      "ino": 22778679,
       "blocks": 8,
-      "atimeMs": 1550059991142.5176,
-      "mtimeMs": 1550016154929.875,
-      "ctimeMs": 1550016155374.9905,
-      "birthtimeMs": 1550016154929.8062,
-      "atime": "2019-02-13T12:13:11.143Z",
-      "mtime": "2019-02-13T00:02:34.930Z",
-      "ctime": "2019-02-13T00:02:35.375Z",
-      "birthtime": "2019-02-13T00:02:34.930Z"
+      "atimeMs": 1550079285606.8003,
+      "mtimeMs": 1550079285607.2341,
+      "ctimeMs": 1550079285607.2341,
+      "birthtimeMs": 1550079090250.9124,
+      "atime": "2019-02-13T17:34:45.607Z",
+      "mtime": "2019-02-13T17:34:45.607Z",
+      "ctime": "2019-02-13T17:34:45.607Z",
+      "birthtime": "2019-02-13T17:31:30.251Z"
     },
     "7328c28a-b5a4-59b9-a6b2-cdd9b1fde632": {
       "id": "7328c28a-b5a4-59b9-a6b2-cdd9b1fde632",
@@ -3214,30 +3214,6 @@
       "mtime": "2019-02-13T00:02:34.933Z",
       "ctime": "2019-02-13T00:02:35.493Z",
       "birthtime": "2019-02-13T00:02:34.933Z"
-    },
-    "37e80c4c-0475-5bbe-bece-416a8eb697f8": {
-      "id": "37e80c4c-0475-5bbe-bece-416a8eb697f8",
-      "children": [],
-      "parent": "4303f163-cf9e-58bd-9e8b-28eaa604e4a6",
-      "internal": {
-        "content": "\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.\n\n![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)\n\n*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*\n\nAenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus",
-        "type": "MarkdownRemark",
-        "contentDigest": "a996de34661e7c0fa3f86b2c8f0db067",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "About me",
-        "template": "page"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.\n\n![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)\n\n*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*\n\nAenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus",
-      "fileAbsolutePath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/content/pages/about.md",
-      "fields": {
-        "slug": "/pages/about/"
-      }
     },
     "0dbb5214-741d-5791-8520-b5e083858821": {
       "id": "0dbb5214-741d-5791-8520-b5e083858821",
@@ -4864,6 +4840,243 @@
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
+    },
+    "SitePage /posts/hallgeir-tester": {
+      "jsonName": "posts-hallgeir-tester-d33",
+      "internalComponentName": "ComponentPostsHallgeirTester",
+      "path": "/posts/hallgeir-tester",
+      "component": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/post-template.js",
+      "componentChunkName": "component---src-templates-post-template-js",
+      "context": {
+        "slug": "/posts/hallgeir-tester"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/post-template.js",
+      "id": "SitePage /posts/hallgeir-tester",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "502be5a912099acacdef10f4dcb08959",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "833fd9a7-ec65-5fca-a907-907381afde7e": {
+      "id": "833fd9a7-ec65-5fca-a907-907381afde7e",
+      "children": [
+        "b16bc1bb-b3a4-53bd-9a8b-869fe30d9b51"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "d1f02f4a0f1f9b42c5687c5ddffa9648",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"static/media/42476141_288200968452299_5814506856806088704_n-1-.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "media",
+      "absolutePath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/static/media/42476141_288200968452299_5814506856806088704_n-1-.jpg",
+      "relativePath": "42476141_288200968452299_5814506856806088704_n-1-.jpg",
+      "extension": "jpg",
+      "size": 42882,
+      "prettySize": "42.9 kB",
+      "modifiedTime": "2019-02-13T17:31:30.253Z",
+      "accessTime": "2019-02-13T17:31:30.252Z",
+      "changeTime": "2019-02-13T17:31:30.253Z",
+      "birthTime": "2019-02-13T17:31:30.252Z",
+      "root": "/",
+      "dir": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/static/media",
+      "base": "42476141_288200968452299_5814506856806088704_n-1-.jpg",
+      "ext": ".jpg",
+      "name": "42476141_288200968452299_5814506856806088704_n-1-",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 22778680,
+      "blocks": 88,
+      "atimeMs": 1550079090252.207,
+      "mtimeMs": 1550079090253.129,
+      "ctimeMs": 1550079090253.129,
+      "birthtimeMs": 1550079090252.207,
+      "atime": "2019-02-13T17:31:30.252Z",
+      "mtime": "2019-02-13T17:31:30.253Z",
+      "ctime": "2019-02-13T17:31:30.253Z",
+      "birthtime": "2019-02-13T17:31:30.252Z"
+    },
+    "bf620a72-21eb-5591-9bee-c3e2f0e58a77": {
+      "id": "bf620a72-21eb-5591-9bee-c3e2f0e58a77",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "7ac19783541ff59e646087a24774a456",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"static/media/safari-pinned-tab.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "assets",
+      "absolutePath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/static/media/safari-pinned-tab.svg",
+      "relativePath": "media/safari-pinned-tab.svg",
+      "extension": "svg",
+      "size": 94881,
+      "prettySize": "94.9 kB",
+      "modifiedTime": "2019-02-13T17:31:30.255Z",
+      "accessTime": "2019-02-13T17:31:30.253Z",
+      "changeTime": "2019-02-13T17:31:30.255Z",
+      "birthTime": "2019-02-13T17:31:30.253Z",
+      "root": "/",
+      "dir": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/static/media",
+      "base": "safari-pinned-tab.svg",
+      "ext": ".svg",
+      "name": "safari-pinned-tab",
+      "relativeDirectory": "media",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 22778681,
+      "blocks": 192,
+      "atimeMs": 1550079090253.3323,
+      "mtimeMs": 1550079090254.9993,
+      "ctimeMs": 1550079090254.9993,
+      "birthtimeMs": 1550079090253.3323,
+      "atime": "2019-02-13T17:31:30.253Z",
+      "mtime": "2019-02-13T17:31:30.255Z",
+      "ctime": "2019-02-13T17:31:30.255Z",
+      "birthtime": "2019-02-13T17:31:30.253Z"
+    },
+    "b16bc1bb-b3a4-53bd-9a8b-869fe30d9b51": {
+      "id": "b16bc1bb-b3a4-53bd-9a8b-869fe30d9b51",
+      "children": [],
+      "parent": "833fd9a7-ec65-5fca-a907-907381afde7e",
+      "internal": {
+        "contentDigest": "d1f02f4a0f1f9b42c5687c5ddffa9648",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "f0eaca6f-4957-5e19-b749-d81b78e1badf": {
+      "id": "f0eaca6f-4957-5e19-b749-d81b78e1badf",
+      "children": [
+        "d61a02ad-bb51-51c0-b8d0-7ff37daa8072"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "7ff7d48a1e91f9b66cb8f9b697c48aaf",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content/posts/2016-01-12---The-Origins-of-Social-Stationery-Lettering.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/content/posts/2016-01-12---The-Origins-of-Social-Stationery-Lettering.md",
+      "relativePath": "posts/2016-01-12---The-Origins-of-Social-Stationery-Lettering.md",
+      "extension": "md",
+      "size": 2797,
+      "prettySize": "2.8 kB",
+      "modifiedTime": "2019-02-13T17:31:30.393Z",
+      "accessTime": "2019-02-13T17:31:30.393Z",
+      "changeTime": "2019-02-13T17:31:30.393Z",
+      "birthTime": "2019-02-13T17:31:30.393Z",
+      "root": "/",
+      "dir": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/content/posts",
+      "base": "2016-01-12---The-Origins-of-Social-Stationery-Lettering.md",
+      "ext": ".md",
+      "name": "2016-01-12---The-Origins-of-Social-Stationery-Lettering",
+      "relativeDirectory": "posts",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 22778682,
+      "blocks": 8,
+      "atimeMs": 1550079090392.9807,
+      "mtimeMs": 1550079090393.0544,
+      "ctimeMs": 1550079090393.0544,
+      "birthtimeMs": 1550079090392.9807,
+      "atime": "2019-02-13T17:31:30.393Z",
+      "mtime": "2019-02-13T17:31:30.393Z",
+      "ctime": "2019-02-13T17:31:30.393Z",
+      "birthtime": "2019-02-13T17:31:30.393Z"
+    },
+    "d61a02ad-bb51-51c0-b8d0-7ff37daa8072": {
+      "id": "d61a02ad-bb51-51c0-b8d0-7ff37daa8072",
+      "children": [],
+      "parent": "f0eaca6f-4957-5e19-b749-d81b78e1badf",
+      "internal": {
+        "content": "**Pellentesque habitant morbi tristique** senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. _Aenean ultricies mi vitae est._ Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. \n\nVestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.  [Donec non enim](#) in turpis pulvinar facilisis.\n\n![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/safari-pinned-tab.svg)\n\n## Header Level 2\n\n* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n* Aliquam tincidunt mauris eu risus.\n\nDonec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. \n\n<figure>\n\t<blockquote>\n\t\t<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p>\n\t\t<footer>\n\t\t\t<cite>— Aliquam tincidunt mauris eu risus.</cite>\n\t\t</footer>\n\t</blockquote>\n</figure>\n\n### Header Level 3\n\n* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n* Aliquam tincidunt mauris eu risus.\n\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.\n\n```css\n#header h1 a {\n  display: block;\n  width: 300px;\n  height: 80px;\n}\n```\n\nVestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "3f768c8910936f5ad2c0a98e453d720b",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "tagSlugs": "default-site-plugin",
+          "categorySlug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Hallgeir tester",
+        "template": "post",
+        "slug": "/posts/hallgeir-tester",
+        "draft": false,
+        "date": "2019-12-01T22:40:00.000Z",
+        "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.",
+        "category": "Design Culture",
+        "tags": [
+          "Typefaces",
+          "Lettering",
+          "History"
+        ]
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "**Pellentesque habitant morbi tristique** senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. _Aenean ultricies mi vitae est._ Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. \n\nVestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.  [Donec non enim](#) in turpis pulvinar facilisis.\n\n![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/safari-pinned-tab.svg)\n\n## Header Level 2\n\n* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n* Aliquam tincidunt mauris eu risus.\n\nDonec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. \n\n<figure>\n\t<blockquote>\n\t\t<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p>\n\t\t<footer>\n\t\t\t<cite>— Aliquam tincidunt mauris eu risus.</cite>\n\t\t</footer>\n\t</blockquote>\n</figure>\n\n### Header Level 3\n\n* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n* Aliquam tincidunt mauris eu risus.\n\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.\n\n```css\n#header h1 a {\n  display: block;\n  width: 300px;\n  height: 80px;\n}\n```\n\nVestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.\n",
+      "fileAbsolutePath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/content/posts/2016-01-12---The-Origins-of-Social-Stationery-Lettering.md",
+      "fields": {
+        "slug": "/posts/hallgeir-tester",
+        "tagSlugs": [
+          "/tag/typefaces/",
+          "/tag/lettering/",
+          "/tag/history/"
+        ],
+        "categorySlug": "/category/design-culture/"
+      }
+    },
+    "37e80c4c-0475-5bbe-bece-416a8eb697f8": {
+      "id": "37e80c4c-0475-5bbe-bece-416a8eb697f8",
+      "children": [],
+      "parent": "4303f163-cf9e-58bd-9e8b-28eaa604e4a6",
+      "internal": {
+        "content": "\nMorbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.\n\nMauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.\n\n![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-4.jpg)\n\n*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*\n\n## Header Level 2\n\nPraesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.\n\n+ **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.\n+ Aliquam tincidunt mauris eu risus.\n+ Vestibulum auctor dapibus neque.\n\n### Header Level 3\n\nPhasellus ultrices nulla quis nibh. Quisque a lectus. Donec **consectetuer** ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.\n\nPellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.\n\n#### Header Level 4\n\nVestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est.\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.\n\n![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/42476141_288200968452299_5814506856806088704_n-1-.jpg)\n\n_Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi._\n\nAenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "566043a3d476d67b5841409c4ab39566",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "About",
+        "template": "page"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nMorbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.\n\nMauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.\n\n![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-4.jpg)\n\n*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*\n\n## Header Level 2\n\nPraesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.\n\n+ **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.\n+ Aliquam tincidunt mauris eu risus.\n+ Vestibulum auctor dapibus neque.\n\n### Header Level 3\n\nPhasellus ultrices nulla quis nibh. Quisque a lectus. Donec **consectetuer** ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.\n\nPellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.\n\n#### Header Level 4\n\nVestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est.\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.\n\n![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/42476141_288200968452299_5814506856806088704_n-1-.jpg)\n\n_Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi._\n\nAenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus\n",
+      "fileAbsolutePath": "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/content/pages/about.md",
+      "fields": {
+        "slug": "/pages/about/"
+      }
     }
   },
   "status": {
@@ -4898,6 +5111,7 @@
         "/posts/humane-typography-in-the-digital-age/",
         "/posts/the-birth-of-movable-type/",
         "/tags",
+        "/posts/hallgeir-tester",
         "sq--src-components-post-author-author-js",
         "sq--src-components-post-comments-comments-js",
         "sq--src-components-sidebar-sidebar-js"
@@ -4912,7 +5126,8 @@
         "/posts/a-brief-history-of-typography/"
       ],
       "d61a02ad-bb51-51c0-b8d0-7ff37daa8072": [
-        "/posts/the-origins-of-social-stationery-lettering"
+        "/posts/the-origins-of-social-stationery-lettering",
+        "/posts/hallgeir-tester"
       ],
       "72cdeeb6-08da-5538-8997-1fdb2505bab2": [
         "/posts/humane-typography-in-the-digital-age/"
@@ -4950,32 +5165,33 @@
     "sq--src-components-post-comments-comments-js": 1989642023,
     "sq--src-components-sidebar-sidebar-js": 1657995839,
     "sq--src-components-post-author-author-js": 2015307863,
-    "category-design-culture-f97": "756/path---category-design-culture-f-97-b75-FurY2GCGC72rO9DbDPXPWaWWA",
-    "category-typography-43b": "945/path---category-typography-43-b-dee-awrLA6LOV8REdfZ3qiDNJSMOwg",
-    "categories-960": "628/path---categories-960-628-IPhgL02LSzPyDVCQEdGnFrP9L9s",
+    "category-design-culture-f97": "584/path---category-design-culture-f-97-b75-CqwbwysxWtGA3F8IkIAlV0PuDys",
+    "category-typography-43b": "180/path---category-typography-43-b-dee-8RC85GDUkk2q3cxby3lehScUPc4",
+    "categories-960": "374/path---categories-960-628-EmlRlXV1KR2zze84fFPK8pUufk0",
     "category-design-inspiration-ac8": "57/path---category-design-inspiration-ac-8-392-ZCzEAS49gB9bwon44LtwsIi0v0",
-    "index": "892/path---index-6a9-iDW2kxNdw4gFQCvqy9XOG7sCGc",
+    "index": "754/path---index-6a9-bfCo7vSWLgVyPeMJYp5lo7Y4",
     "tag-design-58e": "193/path---tag-design-58-e-eb5-hw8DZskagrpGbuvhEcNasWULY",
     "404-c02": "869/path---404-c-02-3e9-CcFnt8PDy1fkjb1eCnuq36UR1RQ",
-    "tag-gatsby-b3a": "827/path---tag-gatsby-b-3-a-78f-sVaSFoWlBX6XWcZuJk9e7wL1ivQ",
+    "tag-gatsby-b3a": "652/path---tag-gatsby-b-3-a-78f-OD0BAwagsftM1Nza7Bok4IWuTc",
     "tag-helvetica-804": "135/path---tag-helvetica-804-e70-KxUNKB1DBe3GtW6meC4Kq7D1PSM",
-    "pages-about-fd2": "773/path---pages-about-fd-2-e6f-tQeofusn1F2gS5f3xHxFK9j1QY",
+    "pages-about-fd2": "925/path---pages-about-fd-2-e6f-GC27wM7nl5A7x94TAwjs1yiUhZE",
     "pages-contacts-2bb": "609/path---pages-contacts-2-bb-fd5-w0Tjiul6cPgH6j1cTiY2SvUqt7w",
-    "tag-history-9c5": "553/path---tag-history-9-c-5-f1c-LIg2kXVxwjJbtyAX0iYDUHoFW8",
+    "tag-history-9c5": "385/path---tag-history-9-c-5-f1c-wNR5GVbpcbtavrbSACkdAsuX70",
     "tag-history-of-typography-eda": "957/path---tag-history-of-typography-eda-b07-ddVroogUj738QfDxkIKYXbOKaDo",
-    "tag-lettering-642": "583/path---tag-lettering-642-200-QOnEkbXB1zRV8Py1BpCGyOEQbY",
+    "tag-lettering-642": "57/path---tag-lettering-642-200-I9XMaPT8VbBHzg1PY2QqU4Lts8s",
     "tag-linotype-4fa": "924/path---tag-linotype-4-fa-48e-QkImDwjplXIkHaDHgxmkb2FJw",
     "tag-monotype-bfe": "618/path---tag-monotype-bfe-4d0-do4f6ibepnt0j8s4szvKS7BkDU",
-    "tag-open-source-37b": "764/path---tag-open-source-37-b-5fa-7alcPj06RFLwrx6MmomLlNdtNUE",
-    "tag-typefaces-872": "938/path---tag-typefaces-872-222-LQ8GRirg2mrR3ziEgsF84lPaJPE",
-    "tag-typography-65a": "382/path---tag-typography-65-a-7ae-gVB2NuIcEmVAqsTNxU2CXWLI",
+    "tag-open-source-37b": "672/path---tag-open-source-37-b-5fa-c22K5VOVKgAwggZ9qSnoYacexU",
+    "tag-typefaces-872": "849/path---tag-typefaces-872-222-3le0T1jR6ffMy6q0NvPj4MiqXY",
+    "tag-typography-65a": "134/path---tag-typography-65-a-7ae-E64JiWzUxuHEyhGmVJQ0upHcBsU",
     "tag-web-development-c12": "808/path---tag-web-development-c-12-252-iEz1slSDxGlO1ygx2LjfT62MkU",
     "posts-a-brief-history-of-typography-7dd": "202/path---posts-a-brief-history-of-typography-7-dd-3b3-cAWTsnXdQQtEf9PKJDDGhmfp4o",
-    "posts-the-origins-of-social-stationery-lettering-240": "325/path---posts-the-origins-of-social-stationery-lettering-240-a50-nw5lwHWnQ8qwZIaebeAiamL7Ps",
+    "posts-the-origins-of-social-stationery-lettering-240": "812/path---posts-the-origins-of-social-stationery-lettering-240-a50-yBn4J1J7GVTuD0YkSdkVqu6DuCU",
     "posts-humane-typography-in-the-digital-age-733": "837/path---posts-humane-typography-in-the-digital-age-733-28c-i3G7Mh2jFaQhAzRCgD33PAmSNIA",
-    "posts-the-birth-of-movable-type-6bf": "520/path---posts-the-birth-of-movable-type-6-bf-ee4-jCR84fNhmxW24kxfPvEy0MdPYS8",
-    "tags-cd4": "498/path---tags-cd-4-e51-cT2svjhDjjd9pJPiYVX0w4cWw",
-    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E"
+    "posts-the-birth-of-movable-type-6bf": "76/path---posts-the-birth-of-movable-type-6-bf-ee4-noW8cwR2trP0KfFVx8mgBqNUThg",
+    "tags-cd4": "703/path---tags-cd-4-e51-ASh4GZKshMkPoNjxzcaYQgCvlT4",
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
+    "posts-hallgeir-tester-d33": "750/path---posts-hallgeir-tester-d-33-861-s3Tv4jn0l64B9iM5yzZKALPNP18"
   },
   "components": {
     "/Users/hallgeirg/GitHub/gatsby-starter-lumen/hallgeir2-test/src/templates/not-found-template.js": {

@@ -51,6 +51,11 @@
     },
     {
         "componentChunkName": "component---src-templates-post-template-js",
+        "jsonName": "posts-hallgeir-tester-d33",
+        "path": "/posts/hallgeir-tester"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
         "jsonName": "posts-humane-typography-in-the-digital-age-733",
         "path": "/posts/humane-typography-in-the-digital-age/"
     },
