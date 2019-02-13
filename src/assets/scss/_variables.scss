@@ -3,11 +3,11 @@
  */
 
 // Colors
-$color-base: #FFFFFF;
+$color-base: rgb(255, 255, 255);
 $color-primary: #A140FF;
-$color-secondary: #EB33FF;
+$color-secondary: #503EFF;
 
-$color-white: #FFF;
+$color-white: #503EFF;
 $color-gray: lighten($color-base, 40%);
 $color-gray-border: lighten($color-base, 77%);
 $color-gray-bg: lighten($color-base, 79%);
